@@ -8,4 +8,4 @@ The compiled binary only requires that your awscli is set up and you have suffic
 
 ## Usage
 
-./main </parameter_store/path/to/retrieve>
+`./paramstore /path/to/parameters`
