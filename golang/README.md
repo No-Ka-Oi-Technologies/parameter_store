@@ -8,4 +8,10 @@ The compiled binary only requires that your awscli is set up and you have suffic
 
 ## Usage
 
+### Linux-based Systems
+
 `./paramstore /path/to/parameters`
+
+### Windows
+
+`paramstore.exe /path/to/parameters/`
